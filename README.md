@@ -25,11 +25,8 @@ Ce projet, a été developpé par OpenClassRooms,et il comporte des bugs. L'exer
 ## Quelques captures d'écrans : 
 
 
-<img width="930" alt="Capture1" src="https://user-images.githubusercontent.com/73883090/152120132-89572b32-c1a0-4af4-882c-8a92bfa92b05.PNG">
-
-<img width="930" alt="Capture2" src="https://user-images.githubusercontent.com/73883090/152120188-ff400e9e-dbc0-4660-b49f-eb9f993be1d0.PNG">
-
-<img width="930" alt="Capture3" src="https://user-images.githubusercontent.com/73883090/152120211-632592fc-f542-4bfa-b839-80bce0cdb762.PNG">
+<img width="930" alt="Capture" src="https://user-images.githubusercontent.com/73883090/152322170-78889599-1d13-45ca-8997-66546a5b8821.PNG">
+<img width="930" alt="Capture2" src="https://user-images.githubusercontent.com/73883090/152322186-6b1da0ff-6f18-4116-b0bd-0f3e752a3d3f.PNG">
 
 
 ## Pré-Requis :
